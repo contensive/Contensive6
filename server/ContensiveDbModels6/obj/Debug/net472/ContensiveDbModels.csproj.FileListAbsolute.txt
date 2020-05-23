@@ -1,0 +1,10 @@
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\net472\ContensiveDbModels.dll
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\net472\ContensiveDbModels.pdb
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\net472\CPBase6.dll
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.csprojAssemblyReference.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.csproj.CoreCompileInputs.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.AssemblyInfoInputs.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.AssemblyInfo.cs
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.csproj.CopyComplete
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.dll
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\net472\ContensiveDbModels.pdb

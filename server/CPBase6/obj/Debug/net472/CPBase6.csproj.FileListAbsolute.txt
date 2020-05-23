@@ -1,0 +1,7 @@
+C:\Git\Contensive6\server\CPBase6\bin\Debug\net472\CPBase6.dll
+C:\Git\Contensive6\server\CPBase6\bin\Debug\net472\CPBase6.pdb
+C:\Git\Contensive6\server\CPBase6\obj\Debug\net472\CPBase6.csproj.CoreCompileInputs.cache
+C:\Git\Contensive6\server\CPBase6\obj\Debug\net472\CPBase6.AssemblyInfoInputs.cache
+C:\Git\Contensive6\server\CPBase6\obj\Debug\net472\CPBase6.AssemblyInfo.cs
+C:\Git\Contensive6\server\CPBase6\obj\Debug\net472\CPBase6.dll
+C:\Git\Contensive6\server\CPBase6\obj\Debug\net472\CPBase6.pdb

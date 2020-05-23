@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net472</TargetFrameworks>
+    <RootNamespace>Contensive.Processor</RootNamespace>
+    <PackageId>Contensive.Processor</PackageId>
+    <Version>6.2005.0.0</Version>
+    <Authors>Contensive</Authors>
+    <Company>Contensive</Company>
+    <Product>Contensive</Product>
+    <Copyright>Copyright 2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

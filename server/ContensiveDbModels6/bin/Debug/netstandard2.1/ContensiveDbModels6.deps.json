@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ContensiveDbModels6/6.2005.0.0": {
+        "dependencies": {
+          "Contensive.CPBaseClass": "6.20.0"
+        },
+        "runtime": {
+          "ContensiveDbModels6.dll": {}
+        }
+      },
+      "Contensive.CPBaseClass/6.20.0": {
+        "runtime": {
+          "lib/netstandard2.1/CPBase6.dll": {
+            "assemblyVersion": "6.2005.0.0",
+            "fileVersion": "6.2005.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContensiveDbModels6/6.2005.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contensive.CPBaseClass/6.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pmG2G9QH7RtJ7+SV6r0VxzfJL0ppgoYV9kfyQ19dDBZDd9NjWQWW616WNhzp36EUvJp4ZhEI8KIpVweUYviwNg==",
+      "path": "contensive.cpbaseclass/6.20.0",
+      "hashPath": "contensive.cpbaseclass.6.20.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contensive.CPBaseClass</id>
+    <version>6.20.0</version>
+    <authors>Contensive</authors>
+    <owners>Contensive</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>LogoBalls.png</icon>
+    <description>The CPBaseClass package is used to build Contensive Addons. See http://Contensive.io/Docs for details.</description>
+    <copyright>Copyright 2020</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Git\Contensive6\server\CPBase6\bin\Debug\net472\CPBase6.dll" target="lib\net472\CPBase6.dll" />
+    <file src="C:\Git\Contensive6\server\CPBase6\bin\Debug\netstandard2.1\CPBase6.dll" target="lib\netstandard2.1\CPBase6.dll" />
+    <file src="C:\Git\Contensive6\server\images\LogoBalls.png" target="LogoBalls.png" />
+  </files>
+</package>

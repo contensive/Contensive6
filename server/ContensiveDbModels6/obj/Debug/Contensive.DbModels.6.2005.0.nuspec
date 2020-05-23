@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contensive.DbModels</id>
+    <version>6.2005.0</version>
+    <authors>Contensive</authors>
+    <owners>Contensive</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>LogoBalls.png</icon>
+    <description>The ContensiveDbModels includes the base model</description>
+    <copyright>Copyright 2020</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Contensive.CPBaseClass" version="6.20.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Contensive.CPBaseClass" version="6.20.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\net472\ContensiveDbModels.dll" target="lib\net472\ContensiveDbModels.dll" />
+    <file src="C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\netstandard2.1\ContensiveDbModels.dll" target="lib\netstandard2.1\ContensiveDbModels.dll" />
+    <file src="C:\Git\Contensive6\server\images\LogoBalls.png" target="LogoBalls.png" />
+  </files>
+</package>

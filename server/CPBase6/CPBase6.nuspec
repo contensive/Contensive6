@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Contensive.CPBaseClass</id>
+    <version>6.20.0.0</version>
+    <title>Contensive Addon API Base Classes</title>
+    <authors>Contensive</authors>
+    <owners>Contensive</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>http://contensive.io</projectUrl>
+    <iconUrl>http://contensive.io/cio/files/cclibraryfiles/filename/000000000005/LogoBalls.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The CPBaseClass package is used to build Contensive Addons. See http://Contensive.io/Docs for details.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags></tags>
+    <icon>images\LogoBalls.png</icon>
+  </metadata>
+  <files>
+    <file src="..\images\LogoBalls.png" target="images\" />
+  </files>
+</package>

@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Git\\Contensive6\\server\\ContensiveDbModels6\\ContensiveDbModels6.csproj": {}
+  },
+  "projects": {
+    "C:\\Git\\Contensive6\\server\\ContensiveDbModels6\\ContensiveDbModels6.csproj": {
+      "version": "6.2005.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\Contensive6\\server\\ContensiveDbModels6\\ContensiveDbModels6.csproj",
+        "projectName": "Contensive.DbModels",
+        "projectPath": "C:\\Git\\Contensive6\\server\\ContensiveDbModels6\\ContensiveDbModels6.csproj",
+        "packagesPath": "C:\\Users\\jay\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Contensive6\\server\\ContensiveDbModels6\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\NuGetLocalPackages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Contensive.CPBaseClass": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "dependencies": {
+            "Contensive.CPBaseClass": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

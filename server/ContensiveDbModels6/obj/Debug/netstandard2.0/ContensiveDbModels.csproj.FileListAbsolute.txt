@@ -1,0 +1,6 @@
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\netstandard2.0\ContensiveDbModels.csprojAssemblyReference.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\netstandard2.0\ContensiveDbModels.csproj.CoreCompileInputs.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\netstandard2.0\ContensiveDbModels.AssemblyInfoInputs.cache
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\obj\Debug\netstandard2.0\ContensiveDbModels.AssemblyInfo.cs
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\netstandard2.0\ContensiveDbModels.deps.json
+C:\Git\Contensive6\server\ContensiveDbModels\ContensiveDbModels\bin\Debug\netstandard2.0\ContensiveDbModels.dll
